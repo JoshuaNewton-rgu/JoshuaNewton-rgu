@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JoshuaNewton-rgu
+- 🌱 I’m currently learning Java , Javascript and c#
+- 📫 How to reach me: Drop me a message on discord - Dottydog05
